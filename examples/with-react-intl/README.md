@@ -36,7 +36,7 @@ now
 
 ## The idea behind the example
 
-This example app shows how to integrate [React Intl][] with Next.
+This example app shows how to integrate [React Intl](https://github.com/yahoo/react-intl) with Next.
 
 ### Features of this example app
 
